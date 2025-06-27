@@ -155,6 +155,7 @@ export const words = [
         " Search & Filter: Easily find properties based on location and price (if implemented).",
            
       ],
+      link: "https://wanderlust-oizu.onrender.com/listings"
    
     },
    
@@ -170,6 +171,7 @@ export const words = [
         "WebSocket-Powered Updates: Instant bi-directional communication using Socket.io for seamless real-time updates.",
         " Backend with Node.js & Express: Efficient and scalable server-side handling of location data.",
       ],
+      link: "https://github.com/Skysweta/Tracker"
     },
      {
       
@@ -184,6 +186,7 @@ export const words = [
         " Fully Responsive: Optimized for seamless viewing across desktop, tablet, and mobile devices.",
         " Smooth Animations: Engaging scroll-based animations powered by ScrollReveal.",
       ],
+      link: "https://sky-bakery.netlify.app/"
     }
   ];
   

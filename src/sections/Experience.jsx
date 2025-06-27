@@ -105,9 +105,9 @@ const Experience = () => {
               <div key={card.title} className="exp-card-wrapper">
                 <div className="xl:w-1/3 w-full">
                   <GlowCard card={card}>
-                    <div className="w-full h-full">
-                        <img src={card.imgPath} alt="exp-img" className="w-full h-[200px] object-cover "/>
-                    </div>
+                    
+                        <img src={card.imgPath} alt="exp-img" className="w-full h-[200px] mb-4  "/>
+                    
                   </GlowCard>
                 </div>
                 <div className="xl:w-4/6">
